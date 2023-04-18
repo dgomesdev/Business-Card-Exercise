@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="new_card">New Card</string>
+    <string name="nameText">Name</string>
+    <string name="companyText">Company</string>
+    <string name="phoneText">Phone number</string>
+    <string name="emailText">E-mail</string>
+    <string name="share">Share</string>
+</resources>
